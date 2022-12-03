@@ -1,1 +1,1 @@
-import Day3b
+from Day3 import Day3b

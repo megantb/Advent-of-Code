@@ -1,7 +1,7 @@
 from itertools import islice
 import linecache
 sum2=0
-with open('Day3Input.txt') as file:
+with open('Day3/Day3Input.txt') as file:
   while True:
     next_n_lines = list(islice(file, 3))
     if not next_n_lines:
