@@ -1,1 +1,1 @@
-from Year2021.Day4 import Day4
+from Year2022.Day4 import Day4
