@@ -1,1 +1,1 @@
-from Day3 import Day3b
+from Year2021.Day3 import Day3
