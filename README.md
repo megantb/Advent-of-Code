@@ -18,14 +18,14 @@ Day 3 - Rucksack Reorganization
 - Puzzle - https://adventofcode.com/2022/day/3
 - Code - https://github.com/megantb/Advent-of-Code/tree/main/Year2022/Day3
 
-Day 4 - 
+Day 4 - Camp Cleanup
 - Puzzle - https://adventofcode.com/2022/day/4
 - Code - https://github.com/megantb/Advent-of-Code/tree/main/Year2022/Day4
-- 
-Day 5 - 
+  
+Day 5 - Supply Stacks
 - Puzzle - https://adventofcode.com/2022/day/5
 - Code - https://github.com/megantb/Advent-of-Code/tree/main/Year2022/Day5
 
-Day 6 - 
-- Puzzle - https://adventofcode.com/2022/day/36
+Day 6 - Tuning Trouble
+- Puzzle - https://adventofcode.com/2022/day/6
 - Code - https://github.com/megantb/Advent-of-Code/tree/main/Year2022/Day6
