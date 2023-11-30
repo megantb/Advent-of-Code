@@ -1,5 +1,5 @@
 
-with open("data.txt") as fin:
+with open("Year2022/Day10/input.txt") as fin:
     lines = fin.read().split("\n")
 
 x = 1    #initialize x
